@@ -1,4 +1,4 @@
-# Calculo-numerico
+# Calculo-numerico 👨‍💻
 Repositorio en el que se mostraran los programas realizados en la asignatura de calculo numérico en la carrera de Ingeniería en Computación usando el lenguaje python.
 
 Para compilar y ejecutar son necesarios un interprete de python.
