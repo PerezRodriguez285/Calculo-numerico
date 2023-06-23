@@ -21,6 +21,8 @@ Repositorio en el que se mostraran los programas realizados en la asignatura de 
 # Herramientas usadas ![image](https://github.com/PerezRodriguez285/Calculo-numerico/assets/111074960/80c6e257-3709-4425-b2dc-78d2ac3d0a18)
 -	Pyhton
 
+      https://www.python.org/downloads/
+
 -	Libro chapra
 
 Para compilar y ejecutar son necesarios un interprete de python.
