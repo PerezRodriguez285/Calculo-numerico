@@ -26,4 +26,7 @@ Repositorio en el que se mostraran los programas realizados en la asignatura de 
 -	Libro chapra
 
 Para compilar y ejecutar son necesarios un interprete de python.
-Algunas herramientas para esto son jupiter, anaconda-spyder e incluso desde la consola son posibles hacerlos funcionar. 
+Algunas herramientas para esto son jupiter, anaconda-spyder e incluso desde la consola son posibles hacerlos funcionar.
+
+# Agradecimientos🎁
+- A mi estimado profe Almeida.
